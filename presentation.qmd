@@ -33,7 +33,11 @@ Partager son code...
 
 ## Types de packages
 
--   meta-package: Collection de packages `library("tidyverse")`
+-   Wrapper d'API
+
+-   Données
+
+-   Meta-package: Collection de packages `library("tidyverse")`
 
 Exemples à l'interne: `clessnverse`, `clessnhub`, `locateip`, etc.
 
