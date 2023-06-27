@@ -7,17 +7,7 @@ editor: visual
 
 # Plan
 
-C'est quoi un package R?
-
-Qu'est-ce que ça contient?
-
-Ça sert à quoi?
-
-Quand est-ce qu'on devrait en créer?
-
 Exemples à l'interne
-
-Quels types de packages peut-on créer?
 
 Comment en créer un?
 
@@ -54,6 +44,10 @@ On sauve du temps
 # Types de packages
 
 -   meta-package: Collection de packages `library("tidyverse")`
+
+# Comment créer un package?
+
+`devtools`: package R pour faciliter le développement de packages :)
 
 # Comment partager un package?
 
