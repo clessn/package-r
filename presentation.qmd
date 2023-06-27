@@ -1,6 +1,7 @@
 ---
 title: "Pourquoi créer des packages R en recherche?"
 author: "Judith Bourque"
+date: "2023-06-27"
 format: 
   revealjs:
     toc: TRUE
