@@ -50,3 +50,5 @@ rsconnect/
 
 # Temporary
 *.pdf
+presentation_files/
+*.html

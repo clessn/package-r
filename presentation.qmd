@@ -1,7 +1,7 @@
 ---
 title: "Pourquoi créer des packages R en recherche?"
 author: "Judith Bourque"
-format: beamer
+format: revealjs
 editor: visual
 ---
 
@@ -39,17 +39,21 @@ Partager son code...
 
 ... ou pas! On peut sauver du temps en adhérant aux conventions des packages:
 
--   \`/R\`: où on mets le code
+-   `/R`: où on mets le code
 
--   \`tests/\`: où mettre les tests
+-   `tests/`: où mettre les tests
 
--   \`data/\`: où mettre les données
+-   `data/`: où mettre les données
 
 On sauve du temps
 
 -   Parce qu'on a un gabarit de structure de code
 
 -   En adhérant aux conventions, on peut bénéficier d'outils standardisés
+
+# Types de packages
+
+-   meta-package: Collection de packages `library("tidyverse")`
 
 # Ressources
 
