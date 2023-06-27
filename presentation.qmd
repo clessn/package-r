@@ -5,21 +5,20 @@ format: beamer
 editor: visual
 ---
 
-## Quarto
+# Plan
 
-Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+C'est quoi un package R?
 
-## Bullets
+Qu'est-ce que ça contient?
 
-When you click the **Render** button a document will be generated that includes:
+Ça sert à quoi?
 
--   Content authored with markdown
--   Output from executable code
+Quand est-ce qu'on devrait en créer?
 
-## Code
+-   Exemples à l'interne
 
-When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+Quels types de packages peut-on créer?
 
-```{r}
-1 + 1
-```
+Comment en créer un?
+
+# Ressources
