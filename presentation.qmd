@@ -27,15 +27,7 @@ Partager son code...
 
 ... ou pas! On peut sauver du temps en adhérant aux conventions des packages:
 
--   `/R`: où on mets le code
-
--   `tests/`: où mettre les tests
-
--   `data/`: où mettre les données
-
-On sauve du temps
-
--   Parce qu'on a un gabarit de structure de code
+-   Parce qu'on a un gabarit de structure de code (`R/`, `tests/`, `data/`)
 
 -   En adhérant aux conventions, on peut bénéficier d'outils standardisés
 
