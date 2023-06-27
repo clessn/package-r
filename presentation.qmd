@@ -1,7 +1,9 @@
 ---
 title: "Pourquoi créer des packages R en recherche?"
 author: "Judith Bourque"
-format: revealjs
+format: 
+  revealjs:
+    toc: TRUE
 editor: visual
 ---
 
