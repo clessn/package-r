@@ -45,7 +45,17 @@ Exemples à l'interne: `clessnverse`, `clessnhub`, `locateip`, etc.
 
 ## Comment créer un package?
 
-`devtools`: package R pour faciliter le développement de packages :)
+`devtools`: package R pour développer des packages :)
+
+-   `create_package()`
+
+-   Créer une fonction
+
+-   `load_all()`
+
+-   `check()`
+
+-   `use_testthat()`
 
 ## Comment partager un package?
 
