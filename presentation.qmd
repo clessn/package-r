@@ -45,6 +45,8 @@ On sauve du temps
 
 -   meta-package: Collection de packages `library("tidyverse")`
 
+Exemples à l'interne: `clessnverse`, `clessnhub`, `locateip`, etc.
+
 # Comment créer un package?
 
 `devtools`: package R pour faciliter le développement de packages :)
