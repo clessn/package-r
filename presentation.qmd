@@ -55,6 +55,12 @@ On sauve du temps
 
 -   meta-package: Collection de packages `library("tidyverse")`
 
+# Comment partager un package?
+
+Publier sur un site comme GitHub
+
+Publier dans CRAN ou autre
+
 # Ressources
 
 ## Créer un package
