@@ -15,11 +15,15 @@ Qu'est-ce que ça contient?
 
 Quand est-ce qu'on devrait en créer?
 
--   Exemples à l'interne
+Exemples à l'interne
 
 Quels types de packages peut-on créer?
 
 Comment en créer un?
+
+# C'est quoi un package R?
+
+"Packages are the fundamental units of reproducible R code. They include reusable R functions, the documentation that describes how to use them, and sample data." (R Packages)
 
 # Ressources
 
